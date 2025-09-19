@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Retina AI Assistant</string>
+    <string name="btn_find_object_text">Find Object</string>
+    <string name="desc_find_object">Button to open the smart object locator</string>
+    <string name="btn_read_currency_text">Read Currency</string>
+    <string name="desc_read_currency">Button to open the currency reader</string>
+    <string name="btn_read_text_text">Read Text</string>
+    <string name="desc_read_text">Button to open the text reader</string>
+    <string name="btn_obstacle_alert_text">Obstacle Alert</string>
+    <string name="desc_obstacle_alert">Button to open the obstacle alert system</string>
+    <string name="app_subtitle">Your AI-Powered Guide</string>
+    <string name="app_logo_description">Retina App Logo</string>
+</resources>

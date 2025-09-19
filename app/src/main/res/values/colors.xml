@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Professional Color Palette -->
+    <color name="background_color">#010409</color>
+    <color name="text_primary">#F0F6FC</color>
+    <color name="text_secondary">#8B949E</color>
+    <color name="accent_blue">#388BFD</color>
+    <color name="button_stroke_color">#30363D</color>
+    <color name="button_ripple_color">#48525F</color>
+</resources>
