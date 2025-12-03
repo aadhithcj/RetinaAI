@@ -1,0 +1,17 @@
+# IDE files
+.idea/
+.gradle/
+local.properties
+*.iml
+
+# Build files
+/build/
+/app/build/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Other generated files
+captures/
+.DS_Store
